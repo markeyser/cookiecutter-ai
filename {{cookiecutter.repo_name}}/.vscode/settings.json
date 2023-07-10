@@ -70,8 +70,9 @@
     // default font family in Windows is: Consolas, 'Courier New', monospace
     "editor.fontSize": 15,
     "terminal.integrated.fontSize": 13,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "terminal.integrated.fontFamily": "'Meslo LG S for Powerline'",
+    // Options only for MacOS
+    // "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    // "terminal.integrated.fontFamily": "'Meslo LG S for Powerline'",
     // #############################
     // ### CODE COMMENTARIES ###
     // #############################
