@@ -22,4 +22,4 @@ mkdocstrings[python]
 mkdocs-material 
 mkdocs-mermaid2-plugin
 hydra-core
-pymarkdownlnt
+# pymarkdownlnt There is an issue with this package on Linux
